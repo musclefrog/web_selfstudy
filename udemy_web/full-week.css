@@ -1,22 +1,22 @@
 body {
     text-align: center;
     background-color: rgb(233, 215, 207);
+    color: rgb(83, 75, 75);
 }
 
 h1 {
     font-family: 'Oswald', sans-serif;
-    color: darkgoldenrod;
     font-weight: bold;
     font-size: 50px;
 }
 
 p {
     font-family: 'Fira Sans', sans-serif;
-    color: blue;
 }
 
 a {
-    color: blueviolet;
+    color: rgb(167, 1, 78);
+    font-family: 'Fira Sans', sans-serif;
     text-decoration: none;
 }
 
@@ -25,6 +25,5 @@ a:hover {
 }
 
 #challenge-list {
-    color: brown;
     font-size: 20px;
 }
